@@ -1,0 +1,6 @@
+[submodule "sdp-software"]
+	path = sdp-software
+	url = git@github.com:tomcek112/sdp-software.git
+[submodule "sdp10-firmware"]
+	path = sdp10-firmware
+	url = git@github.com:JoshGreen1337/sdp10-firmware.git
